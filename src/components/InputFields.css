@@ -1,0 +1,14 @@
+input {
+    border: transparent;
+    margin: 7px;
+    margin-top: 7px;
+    padding: 4px;
+    width: 170px;
+    font-size: 25px;
+}
+h4 {
+    justify-content: left;
+    margin: 0px;
+    margin-top: 5px;
+}
+

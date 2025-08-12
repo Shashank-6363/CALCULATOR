@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+button {
+border: transparent;
+    background: #000;
+    color: aliceblue;
+    width: 35px;
+    justify-content: center;
+    height: 35px;
+    margin: 3px;
+  
+}
