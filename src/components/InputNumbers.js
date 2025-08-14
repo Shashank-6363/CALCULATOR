@@ -1,10 +1,10 @@
 import './InputNumbers.css';
-function InputNumbers({onClickButton}) {
+function InputNumbers({ onClickButton }) {
 
     const buttonNames = ['C', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '+', '=', '*', '/', '.'];
     return (
         <div>
-            {buttonNames.map(buttonName => <button onClick={()=> onClickButton(buttonName)}>{buttonName}</button>)}
+            {buttonNames.map(buttonName => <button key={buttonName} onClick={() => onClickButton(buttonName)}>{buttonName}</button>)}
         </div>
     );
 };
