@@ -1,3 +1,7 @@
+This is my personal frontend developer Calculator built with React.js.
+
+🔗 Live Site: https://venerable-cascaron-70369e.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
